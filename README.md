@@ -20,11 +20,11 @@ Esse é um site com objetivo de sanar a dúvidas daqueles que são fascinados e 
 
 </span>
 <span align = center>
-<h3>Eis um tutorial básico de como usa-lo:</h3>
+<h3>Um pouco sobre o site:</h3>
 </span>
 <div align= center>
-  <img src="Read Me\Screenshots\Inicio.pgn">
+  <img src="Read Me/Screenshots/Inicio.png">
 </div>
 <span align= center> 
-  <h4>Essa primeira aba(Ínicio) eu me apresento e falo o básico de quem sou eu.</h4>
+  <h4>Essa primeira aba(Ínicio) é feito uma introdução ao site, com objetivo de encantar aqueles que chegam no site pela primeira vez.</h4>
 </span>
