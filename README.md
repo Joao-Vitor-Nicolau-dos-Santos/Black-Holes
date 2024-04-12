@@ -1,12 +1,12 @@
 <span align=center >
-<h1>Buracos Negros 🚀</h1>
+<h1>🚀Buracos Negros 🚀</h1>
 
 Esse é um site com objetivo de sanar a dúvidas daqueles que são fascinados e curiosos pelos Buracos Negros. Espero que seja util a você ≧◉◡◉≦
 </span>
 <span  align=center>
 
 <span  align=center>
-<h3>Videos usados no projeto:</h3>
+<h3>🎞️Videos usados no projeto:🎞️</h3>
 <span align = "center">
   <h4>https://www.youtube.com/watch?v=puQrUVFTs3M</h4>
   <h4>https://www.youtube.com/watch?v=TZET-JGNmSM&pp=ygUZYmxhY2sgaG9sZSB3YWxscGFwZXIgbGl2ZQ%3D%3D</h4>
@@ -17,7 +17,7 @@ Esse é um site com objetivo de sanar a dúvidas daqueles que são fascinados e 
 </span>
 <br>
 <span  align=center>
-<h3>Eis aqui está o link do site já no ar:</h3>
+<h3>💻Eis aqui está o link do site já no ar:💻</h3>
 
 </span>
 <span align = center>
