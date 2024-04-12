@@ -18,7 +18,7 @@ Esse é um site com objetivo de sanar a dúvidas daqueles que são fascinados e 
 <br>
 <span  align=center>
 <h3>💻Eis aqui está o link do site já no ar:💻</h3>
-
+https://buracosnegros.netlify.app
 </span>
 <span align = center>
 <h3>Um pouco sobre o site:</h3>
