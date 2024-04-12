@@ -1,7 +1,7 @@
 <span align=center >
 <h1>Buracos Negros</h1>
 
-Esse é um site com objetivo de sanar a dúvidas daqueles que são fascinados e curiosos pelos Buracos Negros.
+Esse é um site com objetivo de sanar a dúvidas daqueles que são fascinados e curiosos pelos Buracos Negros. Espero que seja util a você ≧◉◡◉≦
 </span>
 <span  align=center>
 
@@ -46,7 +46,16 @@ Esse é um site com objetivo de sanar a dúvidas daqueles que são fascinados e 
     <img src="Read Me/Screenshots/propriedades.png">
   </div>
  <h4> Na aba Propriedades é onde é dito as três propriedades e a função de cada uma.</h4>
-
-
-  
+ <br>
+  <br>
+  <div align= center>
+    <img src="Read Me/Screenshots/Tipos.png">
+  </div>
+ <h4> Por fim, temos a aba dos tipos de Buracos Ngeros.</h4>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <h3>Obrigado por me acompanhar até aqui, espero que tenha aproveitado. Boa programação 👋≧◉ᴥ◉≦</h3>
 </span>
