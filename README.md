@@ -1,5 +1,5 @@
 <span align=center >
-<h1>Buracos Negros</h1>
+<h1>Buracos Negros 🚀</h1>
 
 Esse é um site com objetivo de sanar a dúvidas daqueles que são fascinados e curiosos pelos Buracos Negros. Espero que seja util a você ≧◉◡◉≦
 </span>
